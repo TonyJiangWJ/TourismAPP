@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">tab_view</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity">activity</string>
+    <string name="home">home</string>
+    <string name="my">my</string>
+    <string name="topic">topic</string>
+    <string name="query">输入活动，地点</string>
+
+    <!--给spinner使用的-->
+    <string-array name="city_used_array">
+        <item>杭州</item>
+        <item>厦门</item>
+        <item>余姚</item>
+    </string-array>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_content_activity">content_activity</string>
+    <string name="title_activity_list_activity">list_activity</string>
+    <string name="title_activity_sign_">Sign_Activity</string>
+</resources>
